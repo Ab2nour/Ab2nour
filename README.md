@@ -8,8 +8,16 @@
 
 ---
 
-## 🏆 Highlighted Projects
+# 🏆 Highlighted Projects
 
+## Competed in 8 Kaggle AI Competitions
+
+|                                                                                             |                                                                                                                                 |
+|:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+|                            ![](img/projects/kaggle-results.png)                             |                         _**Best ranking 105/934**, using XGBoost, CatBoost, LightGBM, & Random Forests_                         |
+| **Fig.** My Kaggle leaderboard, sorted by best results. I ranked 3 times among the top 33%. | <img src="img/tech/kaggle.svg" width="20"><img src="img/tech/python.svg" width="20"><img src="img/tech/jupyter.svg" width="20"> |
+
+## Other
 - 📈 <a href="https://github.com/Ab2nour/stock-analysis"><b>Stock Analysis</b></a>  
   <sup>Stock price analysis using time series methods. Interactive notebooks and visualizations!</sup>  
   <sub><i>Jupyter Notebook, Time Series | <a href="https://ab2nour.github.io/stock-analysis/">Project Page</a></i></sub>
