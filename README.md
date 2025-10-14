@@ -9,12 +9,10 @@
 
 ## Clovis
 
-|                                                                                                   |                                                                                                                                 |
-|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
-|                             ![](img/projects/clovis-study-sheet.gif)                              |                         _**Best ranking 105/934**, using XGBoost, CatBoost, LightGBM, & Random Forests_                         |
-|  **Fig.** Document creation, with block-style editor: automatic styles to focus on content only.  |                                                                                                                                 |
-|                              ![](img/projects/clovis-speed-quiz.gif)                              |                         _**Best ranking 105/934**, using XGBoost, CatBoost, LightGBM, & Random Forests_                         |
-| **Fig.** One of the mini-games to study your flashcards: choose the right answer in limited time. | <img src="img/tech/kaggle.svg" width="20"><img src="img/tech/python.svg" width="20"><img src="img/tech/jupyter.svg" width="20"> |
+|                                                                                                                                                  |                                                                                                                                 |
+|:------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+| ![](img/projects/clovis-study-sheet.gif) <p>**Fig.** Document creation, with block-style editor: automatic styles to focus on content only.</p>  |                         _**Best ranking 105/934**, using XGBoost, CatBoost, LightGBM, & Random Forests_                         |
+| ![](img/projects/clovis-speed-quiz.gif) <p>**Fig.** One of the mini-games to study your flashcards: choose the right answer in limited time.</p> | <img src="img/tech/kaggle.svg" width="20"><img src="img/tech/python.svg" width="20"><img src="img/tech/jupyter.svg" width="20"> |
 
 ## Other
 - 📈 <a href="https://github.com/Ab2nour/stock-analysis"><b>Stock Analysis</b></a>  
