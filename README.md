@@ -1,14 +1,4 @@
-![header](Github-banner.png)
-
-<!-- ## 🚀 About Me
-
-- 🧑‍💻 Developer with a passion for building and exploring new technologies.
-- 🏗️ I mostly do AI competitions, data science, and simulation models.
-- 🛠️ Constantly tinkering, learning, and sharing open-source projects.-->
-
----
-
-# 🏆 Highlighted Projects
+# Highlighted Projects
 
 ## Competed in 8 Kaggle AI Competitions
 
@@ -16,6 +6,15 @@
 |:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
 |                            ![](img/projects/kaggle-results.png)                             |                         _**Best ranking 105/934**, using XGBoost, CatBoost, LightGBM, & Random Forests_                         |
 | **Fig.** My Kaggle leaderboard, sorted by best results. I ranked 3 times among the top 33%. | <img src="img/tech/kaggle.svg" width="20"><img src="img/tech/python.svg" width="20"><img src="img/tech/jupyter.svg" width="20"> |
+
+## Clovis
+
+|                                                                                                   |                                                                                                                                 |
+|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+|                             ![](img/projects/clovis-study-sheet.gif)                              |                         _**Best ranking 105/934**, using XGBoost, CatBoost, LightGBM, & Random Forests_                         |
+|  **Fig.** Document creation, with block-style editor: automatic styles to focus on content only.  |                                                                                                                                 |
+|                              ![](img/projects/clovis-speed-quiz.gif)                              |                         _**Best ranking 105/934**, using XGBoost, CatBoost, LightGBM, & Random Forests_                         |
+| **Fig.** One of the mini-games to study your flashcards: choose the right answer in limited time. | <img src="img/tech/kaggle.svg" width="20"><img src="img/tech/python.svg" width="20"><img src="img/tech/jupyter.svg" width="20"> |
 
 ## Other
 - 📈 <a href="https://github.com/Ab2nour/stock-analysis"><b>Stock Analysis</b></a>  
@@ -33,16 +32,6 @@
 - 🌟 <a href="https://github.com/Ab2nour/my-own-compiler"><b>My Own Compiler</b></a>  
   <sup>A full compiler for my own programming language — built with ANTLR4, featuring custom grammar, lexer, and parser.</sup>  
   <sub><i>Java, ANTLR4 | <a href="https://ab2nour.github.io/my-own-compiler/">Project Page</a></i></sub>
-
----
-
-## 📊 More Cool Stuff
-
-- <a href="https://github.com/Ab2nour/customer-base-analysis"><b>Customer Base Analysis</b></a> - Segmentation and marketing prediction.
-- <a href="https://github.com/Ab2nour/jane-street"><b>Jane Street</b></a> - Quantitative experiments in Python & Jupyter.
-- <a href="https://github.com/Ab2nour/create-new-words"><b>Create New Words</b></a> - Generate new words that sound statistically French!
-
-_...and more! [See all my repositories.](https://github.com/Ab2nour?tab=repositories)_
 
 ---
 
