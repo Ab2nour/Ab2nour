@@ -14,40 +14,4 @@
 | ![](img/projects/clovis-study-sheet.gif) <p>**Fig.** Document creation, with block-style editor: automatic styles to focus on content only.</p>  |                                                                                     • Built & scaled a **full-stack EdTech platform (mobile & web)** enabling students to create flashcards and study through interactive mini-games.<br><br>• Grew the platform to **350+ active users**, with **40,000+ flashcards** and **2,200+ study sheets** created.<br><br>• Pitched the project in front of 100+ people at major events (Le Village by CA, digiSchool HYPE Awards 2018), with a featured video on YouTube.                                                                                     |
 | ![](img/projects/clovis-speed-quiz.gif) <p>**Fig.** One of the mini-games to study your flashcards: choose the right answer in limited time.</p> | <p>• Led development over **7+ years**, from inception at 17 years old to a fully maintained large-scale project.<br><br>• Tech stack: **Python (Django)**, SQL, **TypeScript**, **React**, PHP.<br><br>• Managed databases & analytics: phpMyAdmin, Google Analytics for user insights.</p><img src="img/tech/typescript.svg" width="20"><img src="img/tech/react.svg" width="20"><img src="img/tech/tailwind-css.svg" width="20"><img src="img/tech/python.svg" width="20"><img src="img/tech/django.svg" width="20"><img src="img/tech/mysql.svg" width="20"><img src="img/tech/php.svg" width="20"> |
 
-## Other
-- 📈 <a href="https://github.com/Ab2nour/stock-analysis"><b>Stock Analysis</b></a>  
-  <sup>Stock price analysis using time series methods. Interactive notebooks and visualizations!</sup>  
-  <sub><i>Jupyter Notebook, Time Series | <a href="https://ab2nour.github.io/stock-analysis/">Project Page</a></i></sub>
-
-- 🤖 <a href="https://github.com/Ab2nour/kaggle-competitions"><b>Kaggle Competitions</b></a>  
-  <sup>My entries to various Kaggle AI competitions, exploring machine learning and data science.</sup>  
-  <sub><i>Jupyter Notebook, ML</i></sub>
-
-- 🦠 <a href="https://github.com/Ab2nour/epidemic-simulation"><b>Epidemic Simulation</b></a>  
-  <sup>Simulating epidemics with the Galton-Watson model.</sup>  
-  <sub><i>Jupyter Notebook | <a href="https://ab2nour.github.io/epidemic-simulation/">Project Page</a></i></sub>
-  
-- 🌟 <a href="https://github.com/Ab2nour/my-own-compiler"><b>My Own Compiler</b></a>  
-  <sup>A full compiler for my own programming language — built with ANTLR4, featuring custom grammar, lexer, and parser.</sup>  
-  <sub><i>Java, ANTLR4 | <a href="https://ab2nour.github.io/my-own-compiler/">Project Page</a></i></sub>
-
----
-
-## 📬 Let's Connect!
-
-- 🌐 [GitHub Profile](https://github.com/Ab2nour)
-- 🏠 [Personal Website](https://ab2nour.github.io/)
-
-<!--
-Talk about my
-
-1) Data sciences projets
-- survival analysis
-etc
-
-2) Software projects
-- Clovis
-- Folder Organization
-- Graph
-
--->
+Check more on my [personal portfolio](https://ab2nour.github.io/)!
