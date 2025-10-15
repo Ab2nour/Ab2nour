@@ -1,11 +1,11 @@
 # Highlighted Projects
 
-## Competed in 8 Kaggle AI Competitions _[(link)](https://www.kaggle.com/ab2nour/competitions)_
+## Stock Analysis _[(link)](https://github.com/Ab2nour/stock-analysis)_
 
-|                                                                                             |                                                                                                                                 |
-|:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
-|                            ![](img/projects/kaggle-results.png)                             |                         _**Best ranking 105/934**, using XGBoost, CatBoost, LightGBM, & Random Forests_                         |
-| **Fig.** My Kaggle leaderboard, sorted by best results. I ranked 3 times among the top 33%. | <img src="img/tech/kaggle.svg" width="20"><img src="img/tech/python.svg" width="20"><img src="img/tech/jupyter.svg" width="20"> |
+|                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                |
+|:--------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                   ![](img/projects/stock-analysis.gif)                                   |                                                                                        Stock prices analysis & prediction using time series methods.<br>I benchmarked **Prophet**, **XGBoost** & SARIMA models, and visualized the data on **interactive dashboards**.                                                                                         |
+| **Fig.** Apple stock "close" prediction compared with actual value, done with Prophet model (from Meta). | <img src="img/tech/python.svg" width="20"><img src="img/tech/prophet.svg" width="20"><img src="img/tech/xgboost.svg" width="20"><img src="img/tech/scikit-learn.svg" width="20"><img src="img/tech/pandas.svg" width="20"><img src="img/tech/matplotlib.svg" width="20"><img src="img/tech/jupyter.svg" width="20"> |
 
 ## Technological startup project: “Projet Clovis” _[(link)](https://student.projetclovis.fr/welcome.php)_
 
@@ -15,3 +15,10 @@
 | ![](img/projects/clovis-speed-quiz.gif) <p>**Fig.** One of the mini-games to study your flashcards: choose the right answer in limited time.</p> | <p>• Led development over **7+ years**, from inception at 17 years old to a fully maintained large-scale project.<br><br>• Tech stack: **Python (Django)**, SQL, **TypeScript**, **React**, PHP.<br><br>• Managed databases & analytics: phpMyAdmin, Google Analytics for user insights.</p><img src="img/tech/typescript.svg" width="20"><img src="img/tech/react.svg" width="20"><img src="img/tech/tailwind-css.svg" width="20"><img src="img/tech/python.svg" width="20"><img src="img/tech/django.svg" width="20"><img src="img/tech/mysql.svg" width="20"><img src="img/tech/php.svg" width="20"> |
 
 Check more on my [personal portfolio](https://ab2nour.github.io/)!
+
+## Competed in 8 Kaggle AI Competitions _[(link)](https://www.kaggle.com/ab2nour/competitions)_
+
+|                                                                                             |                                                                                                                                 |
+|:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+|                            ![](img/projects/kaggle-results.png)                             |                         _**Best ranking 105/934**, using XGBoost, CatBoost, LightGBM, & Random Forests_                         |
+| **Fig.** My Kaggle leaderboard, sorted by best results. I ranked 3 times among the top 33%. | <img src="img/tech/kaggle.svg" width="20"><img src="img/tech/python.svg" width="20"><img src="img/tech/jupyter.svg" width="20"> |
